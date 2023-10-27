@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jonm58
 - 👀 I’m looking you
 - 📫 I'm a Blue Archive fans!
+- 🤣 FBI website block me
 
 <!---
 jonm58/jonm58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
