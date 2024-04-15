@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jonm58
-- 👀 I’m looking you
+- 👀 I’m looking you,do you see
 - 📫 I'm a Blue Archive fans!
 - 🤣 FBI website block me
 
