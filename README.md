@@ -5,6 +5,8 @@
 
 Visual Studio Preview user
 
+![my GitHub stats](https://github-readme-stats.vercel.app/api?username=jonm58&count_private=true&show_icons=true&layout=compact)
+
 ### 👀 Visitors
 <div align="center"><img src="https://count.getloli.com/@jonm58?name=jonm58&theme=original-new&padding=8&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="jonm58"></div>
 
