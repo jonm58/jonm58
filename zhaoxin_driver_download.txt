@@ -1,0 +1,80 @@
+KX-U5680/KX-U5580/KX-U5540
+
+Windows XP
+Integrated Graphics
+https://www.zhaoxin.com/Admin/Others/DownloadsPage.aspx?nid=31&id=2285&tag=0&ref=qdxz&t=e717f7451eec1313
+
+Windows 7 x64
+Integrated Graphics
+https://www.zhaoxin.com/Admin/Others/DownloadsPage.aspx?nid=31&id=2286&tag=0&ref=qdxz&t=d71f682505b22282
+
+Windows 10 x64
+Integrated Graphics
+https://www.zhaoxin.com/Admin/Others/DownloadsPage.aspx?nid=31&id=2287&tag=0&ref=qdxz&t=f883bac8875d5989
+
+Windows 10G x64
+Integrated Graphics
+https://www.zhaoxin.com/Admin/Others/DownloadsPage.aspx?nid=31&id=2288&tag=0&ref=qdxz&t=2b3a140623546e70
+
+KX-U6880A/KX-U6780A/KX-U6580/KX-U6980S/KX-6640MA/KX-6940S:
+
+Windows XP
+USB XHCI
+https://www.zhaoxin.com/Admin/Others/DownloadsPage.aspx?nid=31&id=2295&tag=0&ref=qdxz&t=43d2647e07487676
+Integrated Graphics
+https://www.zhaoxin.com/Admin/Others/DownloadsPage.aspx?nid=31&id=2267&tag=0&ref=qdxz&t=0f4488852caf1dd0
+
+Windows 7 x86
+USB XHCI
+https://www.zhaoxin.com/Admin/Others/DownloadsPage.aspx?nid=31&id=2296&tag=0&ref=qdxz&t=d768ce266f1a0b86
+Integrated Graphics
+https://www.zhaoxin.com/Admin/Others/DownloadsPage.aspx?nid=31&id=2268&tag=0&ref=qdxz&t=122cf20ff2684c87
+
+Windows 7 x64
+Integrated Graphics
+https://www.zhaoxin.com/Admin/Others/DownloadsPage.aspx?nid=31&id=2269&tag=0&ref=qdxz&t=e5fe08dfe7b8c918
+USB XHCI
+https://www.zhaoxin.com/Admin/Others/DownloadsPage.aspx?nid=31&id=2405&tag=0&ref=qdxz&t=b961fb356046909f
+
+Windows 10 x64
+Integrated Graphics
+https://www.zhaoxin.com/Admin/Others/DownloadsPage.aspx?nid=31&id=2270&tag=0&ref=qdxz&t=61dc00216b17a4d6
+
+Windows 11 x64
+Integrated Graphics
+https://www.zhaoxin.com/Admin/Others/DownloadsPage.aspx?nid=31&id=2380&tag=0&ref=qdxz&t=c4d623bc1d070ead
+
+KX-6000G
+
+Windows 10 x64
+ZhaoXin Universal I2C Driver V1.10B
+https://www.zhaoxin.com/Admin/Others/DownloadsPage.aspx?nid=31&id=3246&tag=0&ref=qdxz&t=376aa0874b18ea90
+Integrated Graphics
+https://www.zhaoxin.com/Admin/Others/DownloadsPage.aspx?nid=31&id=2654&tag=0&ref=qdxz&t=5bfc5000b9a17e27
+KX-6000G Windows I2C Driver V1.00A
+https://www.zhaoxin.com/Admin/Others/DownloadsPage.aspx?nid=31&id=2671&tag=0&ref=qdxz&t=e2f4c8e5096598da
+
+Windows 11 x64
+ZhaoXin Universal I2C Driver V1.10B
+https://www.zhaoxin.com/Admin/Others/DownloadsPage.aspx?nid=31&id=3245&tag=0&ref=qdxz&t=d00cad5ce92839e1
+KX-6000G Windows I2C Driver V1.00A
+https://www.zhaoxin.com/Admin/Others/DownloadsPage.aspx?nid=31&id=2672&tag=0&ref=qdxz&t=8f42075215e22831
+Integrated Graphics
+https://www.zhaoxin.com/Admin/Others/DownloadsPage.aspx?nid=31&id=2655&tag=0&ref=qdxz&t=f3bf4600f93c1153
+
+KX-7000
+
+Windows 10 x64
+ZhaoXin Universal I2C Driver V1.10B
+https://www.zhaoxin.com/Admin/Others/DownloadsPage.aspx?nid=31&id=3244&tag=0&ref=qdxz&t=0e3d70d8e1c8fadc
+Integrated Graphics
+https://www.zhaoxin.com/Admin/Others/DownloadsPage.aspx?nid=31&id=3242&tag=0&ref=qdxz&t=c550f411d2fea240
+
+
+Windows 11 x64
+ZhaoXin Universal I2C Driver V1.10B
+https://www.zhaoxin.com/Admin/Others/DownloadsPage.aspx?nid=31&id=3243&tag=0&ref=qdxz&t=a4415d56dce882d5
+Integrated Graphics
+https://www.zhaoxin.com/Admin/Others/DownloadsPage.aspx?nid=31&id=3241&tag=0&ref=qdxz&t=56336ee61c2005dd
+
+
