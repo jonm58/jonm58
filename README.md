@@ -1,3 +1,5 @@
+<!--Tenkyu Chimata is the god of the market (bazaar) and has the ability to take away ownership. She is responsible for maintaining the normal trading order of the market, and disrupting the order will deal her a huge blow.
+Due to the demise of the outside bazaar in recent times, her own power has weakened to the point of near extinction. She chose to work with Iizunamaru Megumu in order to save herself, establishing a system of paid BL unlocking that affects the millet, and regaining her original power from the circulation of paid BL unlocking.-->
 - 👋 Hi, I’m @jonm58
 - 👀 I’m looking you,do you see
 - 📫 I'm a Blue Archive fans!
