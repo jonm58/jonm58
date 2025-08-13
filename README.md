@@ -12,6 +12,13 @@ Due to the demise of the outside bazaar in recent times, her own power has weake
 ###  <img src="https://fastly.jsdelivr.net/gh/hfg-gmuend/openmoji/color/svg/1F440.svg" height="24"  />  Visitors
 <div align="center"><img src="https://count.getloli.com/@jonm58?name=jonm58&theme=original-new&padding=8&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="jonm58"></div>
 
+<div align="center">
+  <img src="https://fastly.jsdelivr.net/gh/hfg-gmuend/openmoji/color/svg/F000.svg" height="70"  alt="Windows logo" />
+  <img src="https://fastly.jsdelivr.net/gh/hfg-gmuend/openmoji/color/svg/F8FF.svg" height="70"  alt="Apple logo" />
+  <img src="https://fastly.jsdelivr.net/gh/hfg-gmuend/openmoji/color/svg/E047.svg" height="70"  alt="Andorid logo" />
+  <!--<img src="https://fastly.jsdelivr.net/gh/hfg-gmuend/openmoji/color/svg/1F427.svg" height="70"  alt="penguin, not Linux logo" />-->
+</div>
+
 ##  <img src="https://fastly.jsdelivr.net/gh/hfg-gmuend/openmoji/color/svg/1F5A5.svg" height="70"  alt="Desktop Computer" />    Operating System
 ![OS](https://img.shields.io/badge/Windows%2011%20Canary-black.svg?colorA=black&style=plastic)
 
