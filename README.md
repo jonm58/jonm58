@@ -9,7 +9,7 @@ Due to the demise of the outside bazaar in recent times, her own power has weake
 
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=jonm58&count_private=true&show_icons=true&layout=compact)
 
-###  <img src="https://fastly.jsdelivr.net/gh/hfg-gmuend/openmoji/color/svg/1F440.svg" height="24"  />  Visitors
+###  <img src="https://fastly.jsdelivr.net/gh/hfg-gmuend/openmoji/color/svg/1F440.svg" height="64"  />  Visitors
 <div align="center"><img src="https://count.getloli.com/@jonm58?name=jonm58&theme=original-new&padding=8&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="jonm58"></div>
 
 <div align="center">
