@@ -7,8 +7,6 @@ Due to the demise of the outside bazaar in recent times, her own power has weake
 
  <img src="https://raw.githubusercontent.com/zDaleZ/msemoji/main/src/Color/1f9f0.svg" height="32"  /> Visual Studio Preview user
 
-![my GitHub stats](https://github-readme-stats.vercel.app/api?username=jonm58&count_private=true&show_icons=true&layout=compact)
-
 ###  <img src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F440.svg" height="64"  />  Visitors
 <div align="center"><img src="https://count.getloli.com/@jonm58?name=jonm58&theme=original-new&padding=8&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="jonm58"></div>
 
