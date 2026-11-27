@@ -1,9 +1,8 @@
-<!--Tenkyu Chimata is the god of the market (bazaar) and has the ability to take away ownership. She is responsible for maintaining the normal trading order of the market, and disrupting the order will deal her a huge blow.
-Due to the demise of the outside bazaar in recent times, her own power has weakened to the point of near extinction. She chose to work with Iizunamaru Megumu in order to save herself, establishing a system of paid BL unlocking that affects the millet, and regaining her original power from the circulation of paid BL unlocking.-->
-- <img src="https://raw.githubusercontent.com/zDaleZ/msemoji/main/src/Color/1f44b.svg" height="32"  /> Hi, I’m @jonm58
-- <img src="https://raw.githubusercontent.com/zDaleZ/msemoji/main/src/Color/1f440.svg" height="32"  />  I’m looking you,do you see
-- <img src="https://raw.githubusercontent.com/zDaleZ/msemoji/main/src/Color/1f4eb.svg" height="32"  />  I'm a Blue Archive fans!
-- <img src="https://raw.githubusercontent.com/zDaleZ/msemoji/main/src/Color/1f923.svg" height="32"  />  FBI website block my IP
+https://www.bilibili.com/opus/1233069202138464289
+
+**English:** Avatar: "[所有的AI们，和OpenCode]" by [ZipZipPipe](https://space.bilibili.com/en/4168597), [Original Source](https://www.bilibili.com/opus/1233069202138464289), [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Cropped/resized only.
+
+**中文：** 头像：“[所有的AI们，和OpenCode]”，作者 [ZipZipPipe](https://space.bilibili.com/4168597)，来源 [原始链接](https://www.bilibili.com/opus/1233069202138464289)，[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。仅裁剪/调整尺寸。
 
  <img src="https://raw.githubusercontent.com/zDaleZ/msemoji/main/src/Color/1f9f0.svg" height="32"  /> Visual Studio Preview user
 
