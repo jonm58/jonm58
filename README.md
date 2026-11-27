@@ -1,5 +1,3 @@
-https://www.bilibili.com/opus/1233069202138464289
-
 **English:** Avatar: "[所有的AI们，和OpenCode]" by [ZipZipPipe](https://space.bilibili.com/en/4168597), [Original Source](https://www.bilibili.com/opus/1233069202138464289), [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Cropped/resized only.
 
 **中文：** 头像：“[所有的AI们，和OpenCode]”，作者 [ZipZipPipe](https://space.bilibili.com/4168597)，来源 [原始链接](https://www.bilibili.com/opus/1233069202138464289)，[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。仅裁剪/调整尺寸。
